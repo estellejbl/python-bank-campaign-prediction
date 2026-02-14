@@ -78,8 +78,6 @@ The objective of the exploratory phase was to identify relationships between var
 
 - Correlation matrix to identify variables associated with the target (`deposit`)
 - Scatter plot to visually inspect linearity between key features and the target
-IMAGE
-IMAGE
 
 ### ✅ STEP 4 - Building the Prediction Model
 - Split data into training and testing sets (80% / 20%).
@@ -96,7 +94,6 @@ Model performance was evaluated using standard regression metrics.
 - RMSE: 105.81  
 - R²: 0.75
 
-  IMAGE True vs Predicted values
 ---
 ### 📈 Insight Recomendation
 
